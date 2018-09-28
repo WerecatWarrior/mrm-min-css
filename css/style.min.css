@@ -2387,7 +2387,7 @@ h1.splash {
 h1.splash small {
   display: initial;
   font-size: 0.5em;
-  color: #222
+  color: #ffffff
 }
 
 h1.splash::first-letter {
@@ -2418,7 +2418,7 @@ a.button.splash {
   left: 25vw;
   text-align: center;
   font-size: 1.25rem;
-  border-color: #f22f21;
+  border-color: #a5109e;
   background: rgba(255, 255, 255, 0.35);
   transition: all 0.3s
 }
