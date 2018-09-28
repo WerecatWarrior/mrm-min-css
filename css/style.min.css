@@ -2368,9 +2368,9 @@ samp:not(.doc) {
   position: absolute
 }
 
-.index-splash-image:not(.no-filter) {
+/*.index-splash-image:not(.no-filter) {
   filter: blur(2px)
-}
+}*/
 
 h1.splash {
   position: absolute;
