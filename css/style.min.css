@@ -2424,9 +2424,9 @@ a.button.splash {
 }
 
 a.button.splash:hover {
-  background: #f22f21;
-  color: #f8f8f8;
-  border-color: #f22f21
+  background: #ffffff;
+  color: #a5109e;
+  border-color: #ffffff
 }
 
 @media screen and (min-width: 768px) {
